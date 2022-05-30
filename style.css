@@ -45,8 +45,13 @@ top: 0;
     display: flex;
     padding: 100px;
     color: #F9FAF8;
-    justify-content: space-between;
+    justify-content: center;
 
+}
+
+.p1-container {
+    display: flex;    
+    justify-content: space-between;
 }
 
 .p1-container-left {
